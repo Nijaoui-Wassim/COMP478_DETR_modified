@@ -39,6 +39,7 @@ year = {2020},
 
 
 ## Usage
+### PLEASE NOTE: I did not include the full code as parts of it was reused from the original DETR dataset, I only included the modified files.
 
 To train the modified DETR model on MiniCOCO, follow these steps:
 
